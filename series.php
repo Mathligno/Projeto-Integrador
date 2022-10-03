@@ -1,6 +1,5 @@
 <?php
         include "logado.php";
-        include "conexao.php";
         include "controle1.php";
      ?>
      
