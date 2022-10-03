@@ -28,7 +28,7 @@
         </svg>
       </a>
       <div class="media-element">
-        <img id="bg_img1" src="./img/12HomenseUmaSentenca.jpg" alt="" /> <label id="titulo">Teste</label>
+        <img id="bg_img1" src="./img/12HomenseUmaSentenca.jpg" alt="" /> <label id="titulo"></label>
       </div>
       <div class="media-element">
         <img id="bg_img2" src="./img/Aesperadeummilagre.jpg" alt="" /> <label id="titulo"></label>
